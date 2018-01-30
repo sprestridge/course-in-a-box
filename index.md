@@ -5,6 +5,8 @@ published: true
 
 ## Create your own online course (and keep it)
 
+TESTING 1, 2; TESTING
+
 Course in a Box is simple, open source tool to help you create your very own online course. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
 
 By default, your course will be hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course. Best of all, hosting a course on Github is **free**!
