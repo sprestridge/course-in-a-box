@@ -1,9 +1,9 @@
-# Everything you need to create an online course in a box
+# This course will provide a high level overview of Excel functions for intermediate to advanced Excel users
 
 
 ## How do I get started?
 
-Head on over to [howto.p2pu.org](http://howto.p2pu.org). Everything you need to know is over there and once you are done we'll be waiting for you here!
+Head on over to [http://sprestridge.net/excel-course-in-a-box/](http://sprestridge.net/excel-course-in-a-box/). Everything you need to know is over there and once you are done we'll be waiting for you here!
  
 ---
 
