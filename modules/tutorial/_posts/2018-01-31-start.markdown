@@ -1,14 +1,14 @@
 ---
-title: About Course in a Box
+title: About Excel Course in a Box
 ---
 
-# Course in a Box
+# Excel Course in a Box
 
-Course in a Box consist of 
+This Excel Course in a Box consists of 
 
- - a tutorial module to guide you through the technical steps for creating your course.
- - a resource module to help you design content, activities, community and feedback for your course.
- - a reference module with some explanation and detail about Course in a Box.
+ - an intermediate module to teach you some new functions and techniques.
+ - an advanced module take your skills to the next level.
+ - a reference module with some explanation and detail about Excel and cost models.
  - a community forum where you can ask questions or share your experience.
 
 The rest of this module will step you through creating your course, adding the modules you want to use and adding and updating content to sections.
